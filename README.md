@@ -1,1 +1,1 @@
-# AudioEMotion
+# AudioEMotion-Emotion recognition from audio 
